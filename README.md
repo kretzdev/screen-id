@@ -11,10 +11,10 @@ It uses the `@media` attribute to fit the viewport into either one of three cate
 @media screen and (min-width: 1281px) and (max-width: 1920px)
 ```
 
-===
+
 Run the file  
 <https://kretzdev.github.io/screen-id/>
 ---
 *License and copyright*
 
-#####©kretzdev 2021
+#####©kretzdev 2021####
