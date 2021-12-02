@@ -1,5 +1,5 @@
 # screen-id  
-##*Version 1.0*
+*Version 1.0*
 ---
 A website which tells you what device type you are currently using based on your screen size. 
 
@@ -17,4 +17,4 @@ Run the file
 ---
 *License and copyright*
 
-###©kretzdev 2021
+©kretzdev 2021
